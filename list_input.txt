@@ -1,0 +1,3 @@
+assembly/27097_8#96.fa	gff/27097_8#96.gff
+assembly/10156_3#11.fa	gff/10156_3#11.gff
+#
